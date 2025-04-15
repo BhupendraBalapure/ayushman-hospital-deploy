@@ -1,0 +1,9 @@
+# SSH Keys
+bhupendraBalapure
+bhupendraBalapure.pub
+git
+git.pub
+
+# Dependencies
+node_modules/
+.next/
